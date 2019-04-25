@@ -3,13 +3,14 @@
 ### 项目介绍
 ```
 功能点：
-    模拟支付包口碑，完整的购物流程、后端运营平台对前端业务的支撑，和对项目的运维，有各项的监控指标和运维指标。
+    模拟支付包口碑，能准确定位，并支持一套完整的购买流程，并有后台监控。
 技术点：
     
 	数据库连接池：Alibaba Druid
-	日志管理：Logback	前端框架：Vue全家桶以及相关组件
-	三方服务： 邮件服务、阿里云短信服务、七牛云文件服务、钉钉机器人服务、高德地图API
-	核心框架：springcloud Edgware全家桶
+	日志管理：Logback	
+	前端框架：Vue以及相关组件
+	三方服务： 邮件服务、阿里云短信服务、钉钉机器人服务、高德地图API
+	核心框架：springcloud Edgware
 	安全框架：Spring Security Spring Cloud Oauth2
 	分布式任务调度：elastic-job
 	持久层框架：MyBatis、通用Mapper4、Mybatis_PageHelper
